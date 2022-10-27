@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(73, 160, 65);
+   
+}
+#root {
+    align-items: center;
+    text-align: center;
+    position: relative;
+    /* text-transform: uppercase;
+    transition: .5s;
+    filter: blur(2px); */
+}
+/* 
+li {
+    text-transform: uppercase;
+    transition: .5s;
+  
+}
+li a {
+    text-decoration: none;
+    transition: .5s;
+    padding: 10px;
+}
+ul:hover li a{
+    filter: blur(5px);
+}ul:hover li a:hover {
+    filter:blur(0px);
+    background-color: orange;
+} */
